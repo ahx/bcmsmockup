@@ -1,0 +1,23 @@
+This is a first sketch for a UI proposal for BrowserCMS.
+
+You can open the svg file in Inkscape of view the html in your Browser (Firefox 3.5 / Safari 4).
+
+If you open the html file you can click on these three buttons:
+
+- The "Edit properties"-button in the top navigation bar
+- The blue "+"-button 
+- The up/down-arrows-button in one of the small grey menus
+
+
+Basic ideas
+- Get rid of "zombie"-buttons (greyish, unresponsive buttons)
+- Minimize administrative depris in top toolbar and visual editor
+- Use overlay/window for editing page properties and reordering blocks to stay in context
+- Only highlight draft pages, not published pages
+- Use "warning tape" on draft pages and pages that are assigned to current user. 
+  These show additional information and provide access to functionality formerly provided via zombies.
+
+TODO Write more about why is all this an improvement.
+TODO Discuss, then make a working html mockup
+
+Andreas
