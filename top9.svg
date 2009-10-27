@@ -1147,11 +1147,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="859.76859"
-     inkscape:cy="594.84977"
+     inkscape:zoom="1"
+     inkscape:cx="547.10665"
+     inkscape:cy="739.98385"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="852"
@@ -2083,7 +2083,6 @@
          onload="InkWeb.hide(&quot;g34544&quot;)" />
     </g>
     <g
-       onclick="InkWeb.toggle(&quot;layer3&quot;)"
        transform="translate(-165.24686,-67.358493)"
        id="use36437"
        style="display:inline">
@@ -3073,7 +3072,7 @@
        width="900"
        height="897.36603"
        x="0.49999997"
-       y="179.19206"
+       y="-0.80793762"
        rx="85.72625"
        ry="0.051937446"
        onclick="InkWeb.hide(&quot;layer3&quot;)" />
