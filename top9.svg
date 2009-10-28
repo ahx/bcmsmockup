@@ -1147,9 +1147,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="44.832581"
-     inkscape:cy="682.62295"
+     inkscape:zoom="0.5"
+     inkscape:cx="558.879"
+     inkscape:cy="455.17889"
      inkscape:document-units="px"
      inkscape:current-layer="layer6"
      showgrid="true"
@@ -1173,7 +1173,7 @@
        id="grid4601"
        empspacing="1"
        dotted="false"
-       visible="true"
+       visible="false"
        enabled="true"
        snapvisiblegridlinesonly="false" />
   </sodipodi:namedview>
@@ -2126,9 +2126,9 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="editor (layer6)"
-     style="display:inline">
+     style="display:none">
     <rect
-       style="fill:none;stroke:#283bff;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4.69999981;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       style="fill:#000000;fill-opacity:0;stroke:#283bff;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4.69999981;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
        id="rect4134"
        width="557.00897"
        height="677.00897"
