@@ -1209,6 +1209,20 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3510-7"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3558"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1218,16 +1232,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="287.88344"
-     inkscape:cy="735.85777"
+     inkscape:cx="297.30073"
+     inkscape:cy="650.19985"
      inkscape:document-units="px"
-     inkscape:current-layer="g11959"
+     inkscape:current-layer="ceditor"
      showgrid="true"
-     inkscape:window-width="1440"
-     inkscape:window-height="852"
+     inkscape:window-width="894"
+     inkscape:window-height="843"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-to-guides="true"
@@ -1505,7 +1519,7 @@
       <path
          id="path3215"
          d="m 959.55714,190.91189 -958.99896809,0"
-         style="stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="stroke:#888a85;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <g
          id="g4134"
          onclick="InkWeb.show(&quot;layer4&quot;)"
@@ -2072,7 +2086,7 @@
        transform="translate(148,-207.69201)">
       <path
          transform="matrix(0.2540107,0,0,0.2540107,-503.08704,414.11635)"
-         d="m 1001,119 c 0,18.77768 -15.22232,34 -34,34 -18.77768,0 -34,-15.22232 -34,-34 0,-18.77768 15.22232,-34 34,-34 18.77768,0 34,15.22232 34,34 z"
+         d="m 1001,119 a 34,34 0 1 1 -68,0 34,34 0 1 1 68,0 z"
          sodipodi:ry="34"
          sodipodi:rx="34"
          sodipodi:cy="119"
@@ -3041,9 +3055,9 @@
          style="opacity:0.02654868;fill:#ffffff;fill-opacity:1;stroke:none"
          id="rect11657"
          width="957"
-         height="532"
+         height="500"
          x="2.0000002"
-         y="369" />
+         y="401" />
       <g
          id="g11848"
          transform="translate(0,240)">
@@ -3206,33 +3220,33 @@
              id="tspan3781-6" /></text>
       </g>
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#cccccc;stroke-width:2.00200009;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+         style="fill:#ffffff;fill-opacity:1;stroke:#cccccc;stroke-width:2.00199986;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
          id="rect5329-3"
          width="11.313707"
-         height="489.99799"
+         height="500.99805"
          x="946.6853"
-         y="408.00101" />
+         y="397.00098" />
       <g
          transform="matrix(1,0,0,-1,-5.9e-6,511)"
          id="g12034">
         <rect
            ry="0.051937442"
            rx="85.726265"
-           y="428"
+           y="439"
            x="1"
-           height="44"
-           width="959"
+           height="32.999996"
+           width="958"
            id="rect10997"
            style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
         <g
            style="display:inline"
            id="g4139-9"
-           transform="matrix(1,0,0,-1,38.565332,801.45482)"
+           transform="matrix(1,0,0,-1,38.565342,807.45483)"
            onclick="InkWeb.hide(&quot;ceditor&quot;)">
           <rect
-             y="335.94089"
+             y="338.94089"
              x="-791.94861"
-             height="27.027876"
+             height="24.027876"
              width="97.027878"
              id="rect5199-3"
              style="fill:#283bff;fill-opacity:1;stroke:#2c3ef0;stroke-width:0.97212464;stroke-opacity:1"
@@ -3253,15 +3267,15 @@
         <g
            style="display:inline"
            id="g4149-2"
-           transform="matrix(1,0,0,-1,279.47292,801.45482)"
+           transform="matrix(1,0,0,-1,279.47293,807.45483)"
            onclick="InkWeb.hide(&quot;ceditor&quot;)">
           <rect
-             y="335.94089"
+             y="338.94089"
              x="-671.04102"
-             height="27.027876"
+             height="24.027876"
              width="105.02788"
              id="rect4151-4"
-             style="fill:#b3b3b3;fill-opacity:1;stroke:#898989;stroke-width:0.97212446;stroke-opacity:1"
+             style="fill:#b3b3b3;fill-opacity:1;stroke:#898989;stroke-width:0.9721244;stroke-opacity:1"
              transform="scale(-1,1)" />
           <text
              sodipodi:linespacing="125%"
@@ -3276,10 +3290,14 @@
                y="354.97339"
                style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Verdana;-inkscape-font-specification:Verdana">Cancel</tspan></text>
         </g>
+        <path
+           style="fill:none;stroke:#babdb6;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+           d="m 0.5003259,440.5 958.4919141,0"
+           id="path11957-8" />
       </g>
       <g
          id="g11959"
-         transform="translate(-1,-350)">
+         transform="translate(-1,-360)">
         <rect
            style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            id="rect8736"
@@ -3353,12 +3371,12 @@
         <image
            sodipodi:absref="/Users/andreashaller/Documents/Studium/Interface Einfach/brws/mockup/editor.png"
            xlink:href="editor.png"
-           y="510"
-           x="21"
-           id="image11528"
-           height="64"
+           style="fill:#eeeeec"
            width="596"
-           style="fill:#eeeeec" />
+           height="64"
+           id="image11528"
+           x="21"
+           y="510" />
         <rect
            style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#babdb6;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            id="rect11534"
@@ -3404,7 +3422,7 @@
              id="tspan11570">Things to try</tspan></text>
       </g>
       <rect
-         y="409"
+         y="398"
          x="947.39337"
          height="279"
          width="10.606601"
@@ -3414,29 +3432,21 @@
          rx="6" />
       <g
          id="g12045"
-         transform="matrix(1,0,0,-1,-5.9e-6,823)">
+         transform="matrix(1,0,0,-1,-5.9e-6,817)">
         <rect
            style="color:#000000;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            id="rect8738"
            width="959"
-           height="17"
+           height="12"
            x="1"
-           y="417" />
+           y="422" />
         <g
            id="g11135"
-           transform="translate(0,2)">
-          <path
-             id="path10979"
-             d="m 430.5,419.5 83,0"
-             style="fill:none;stroke:#888a85;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+           transform="translate(8.5,4)">
           <path
              style="fill:none;stroke:#888a85;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              d="m 430.5,421.5 83,0"
              id="path10981" />
-          <path
-             style="fill:none;stroke:#eeeeec;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             d="m 430.5,420.5 83,0"
-             id="path10991" />
           <path
              id="path10993"
              d="m 430.5,422.5 83,0"
@@ -3509,9 +3519,13 @@
              style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
         </g>
         <path
-           style="fill:none;stroke:#555753;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 0.5003259,416.5 958.4919141,0"
+           style="fill:none;stroke:#babdb6;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 0.5003259,421.5 958.4919141,0"
            id="path11957" />
+        <path
+           id="path3526"
+           d="m 0.5003259,434.5 958.4919141,0"
+           style="fill:none;stroke:#babdb6;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       </g>
     </g>
   </g>
