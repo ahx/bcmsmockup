@@ -24,6 +24,17 @@
   <defs
      id="defs4">
     <linearGradient
+       id="linearGradient3506">
+      <stop
+         style="stop-color:#e0e0e0;stop-opacity:1;"
+         offset="0"
+         id="stop3508" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop3510" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient34630">
       <stop
          style="stop-color:#0000ff;stop-opacity:1;"
@@ -1223,6 +1234,37 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3506"
+       id="linearGradient3512"
+       x1="21.213203"
+       y1="189.56485"
+       x2="21.213203"
+       y2="175.59694"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(21.772727,0,0,1,-20.772727,0)" />
+    <inkscape:perspective
+       id="perspective4344"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4372"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4305"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1232,16 +1274,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="297.30073"
-     inkscape:cy="650.19985"
+     inkscape:cx="42.211115"
+     inkscape:cy="774.14093"
      inkscape:document-units="px"
-     inkscape:current-layer="ceditor"
+     inkscape:current-layer="layer2"
      showgrid="true"
-     inkscape:window-width="894"
-     inkscape:window-height="843"
+     inkscape:window-width="1040"
+     inkscape:window-height="852"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-to-guides="true"
@@ -1365,63 +1407,33 @@
            id="tspan4175"
            sodipodi:role="line">2</tspan></text>
     </g>
+    <rect
+       style="color:#000000;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4328"
+       width="958"
+       height="31.999998"
+       x="1"
+       y="191.36218" />
     <g
        id="g6112"
-       transform="translate(0,-0.04971485)">
-      <g
-         id="g6906"
-         style="stroke:#ffffff;stroke-width:1">
-        <rect
-           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-           id="rect6896"
-           width="107.49265"
-           height="27.499533"
-           x="117.04966"
-           y="162.89925" />
-        <rect
-           y="162.89925"
-           x="8.5570002"
-           height="27.499533"
-           width="107.49265"
-           id="rect6898"
-           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-opacity:1" />
-        <rect
-           y="162.89925"
-           x="225.54228"
-           height="27.499533"
-           width="107.49265"
-           id="rect6900"
-           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-opacity:1" />
-        <rect
-           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
-           id="rect6902"
-           width="107.49265"
-           height="27.499533"
-           x="334.03494"
-           y="162.89925" />
-        <rect
-           y="162.89925"
-           x="442.52762"
-           height="27.499533"
-           width="107.49265"
-           id="rect6904"
-           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-opacity:1" />
-      </g>
+       transform="translate(0,-0.04971)">
       <g
          transform="translate(1027.4127,0.17488884)"
          id="g5837"
          onclick="InkWeb.show(&quot;layer7&quot;)">
         <rect
            transform="scale(-1,1)"
-           style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.97212446;stroke-opacity:1"
+           style="fill:#e6e6e6;fill-opacity:1;stroke:#999999;stroke-width:0.97212446;stroke-opacity:1"
            id="rect3649"
-           width="63.639832"
+           width="63.027874"
            height="24.027876"
-           x="673.2868"
-           y="195.72307" />
+           x="673.89874"
+           y="195.72307"
+           ry="2"
+           rx="2" />
         <text
            xml:space="preserve"
-           style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana"
+           style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana"
            x="-725.73254"
            y="212.11113"
            id="text3251"
@@ -1430,7 +1442,7 @@
              id="tspan3253"
              x="-725.73254"
              y="212.11113"
-             style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana">Assign</tspan></text>
+             style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana">Assign</tspan></text>
       </g>
       <g
          transform="translate(1028.1333,0)"
@@ -1440,14 +1452,14 @@
          id="text3187"
          y="212.37299"
          x="684.01019"
-         style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana;-inkscape-font-specification:Verdana"
+         style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#888a85;font-family:Verdana;-inkscape-font-specification:Verdana"
          xml:space="preserve"><tspan
-           style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Verdana;-inkscape-font-specification:Verdana"
+           style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#888a85;font-family:Verdana;-inkscape-font-specification:Verdana"
            y="212.37299"
            x="684.01019"
            id="tspan3189"
            sodipodi:role="line">&quot;<tspan
-   style="fill:#000000"
+   style="fill:#555753"
    id="tspan3191">Home</tspan>&quot; Version 39 (published) </tspan></text>
       <text
          sodipodi:linespacing="125%"
@@ -1460,81 +1472,88 @@
            id="tspan3195"
            x="869.56183"
            y="212.05508"
-           style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana">List versions</tspan></text>
+           style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;font-family:Verdana;-inkscape-font-specification:Verdana">List versions</tspan></text>
+      <path
+         id="path3215"
+         d="m 959.55714,190.91189 -958.99896809,0"
+         style="stroke:#888a85;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <rect
+         style="color:#000000;fill:url(#linearGradient3512);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3504"
+         width="958"
+         height="37"
+         x="1"
+         y="153.4119" />
+      <path
          style="fill:#283bff;fill-opacity:1;stroke:none"
+         d="m 9.142,190.39889 0,-24.98699 c 0,-1.662 1.338272,-3 3.000272,-3 l 87.742653,0 c 1.662005,0 3.000005,1.338 3.000005,3 l 0,24.98699 m 0,0"
          id="rect3197"
-         width="73.742653"
-         height="27.986883"
-         x="9.142272"
-         y="162.4119" />
+         sodipodi:nodetypes="ccccccc" />
       <text
          sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana;-inkscape-font-specification:Verdana"
-         x="232.61987"
+         style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
+         x="266.99933"
          y="182.12482"
          id="text3199"><tspan
            sodipodi:role="line"
            id="tspan3201"
-           x="232.61987"
+           x="266.99933"
            y="182.12482"
-           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana;-inkscape-font-specification:Verdana">Sitemap</tspan></text>
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana">Sitemap</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3203"
          y="182.37872"
-         x="319.10406"
-         style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana;-inkscape-font-specification:Verdana"
+         x="366.29376"
+         style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
          xml:space="preserve"><tspan
-           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana;-inkscape-font-specification:Verdana"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
            y="182.37872"
-           x="319.10406"
+           x="366.29376"
            id="tspan3205"
            sodipodi:role="line">ContentLibrary</tspan></text>
       <text
          sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana;-inkscape-font-specification:Verdana"
-         x="449.3363"
+         style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
+         x="509.33624"
          y="182.37872"
          id="text3207"><tspan
            sodipodi:role="line"
            id="tspan3209"
-           x="449.3363"
+           x="509.33624"
            y="182.37872"
-           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana;-inkscape-font-specification:Verdana">Administration</tspan></text>
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana">Administration</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3211"
          y="182.12482"
-         x="18.905884"
+         x="27.664833"
          style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Verdana;-inkscape-font-specification:Verdana"
          xml:space="preserve"><tspan
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Verdana;-inkscape-font-specification:Verdana"
            y="182.12482"
-           x="18.905884"
+           x="27.664833"
            id="tspan3213"
            sodipodi:role="line">Live Site</tspan></text>
-      <path
-         id="path3215"
-         d="m 959.55714,190.91189 -958.99896809,0"
-         style="stroke:#888a85;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <g
          id="g4134"
          onclick="InkWeb.show(&quot;layer4&quot;)"
-         transform="translate(0.05869406,0.17488884)">
+         transform="translate(0.05868644,0.17488884)">
         <rect
            y="195.72307"
            x="-285.45523"
            height="24.027876"
            width="118.02787"
            id="rect3647"
-           style="fill:#e6e6e6;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.97212446;stroke-opacity:1"
-           transform="scale(-1,1)" />
+           style="fill:#e6e6e6;fill-opacity:1;stroke:#999999;stroke-width:0.97212446;stroke-opacity:1"
+           transform="scale(-1,1)"
+           ry="2"
+           rx="2" />
         <text
            xml:space="preserve"
-           style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana;-inkscape-font-specification:Verdana"
+           style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana"
            x="176.93475"
            y="212.47295"
            id="text3223"
@@ -1543,40 +1562,42 @@
              id="tspan3225"
              x="176.93475"
              y="212.47295"
-             style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana;-inkscape-font-specification:Verdana">Edit properties</tspan></text>
+             style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana">Edit properties</tspan></text>
       </g>
       <g
          id="g4779"
-         transform="translate(0.0587551,0.17488884)">
+         transform="translate(-0.94128305,0.17488884)">
         <rect
            y="195.72307"
            x="-423.45517"
            height="24.027876"
            width="64.027824"
            id="rect3651"
-           style="fill:#e6e6e6;stroke:#b3b3b3;stroke-width:0.97212446;stroke-opacity:1"
-           transform="scale(-1,1)" />
+           style="fill:#e6e6e6;fill-opacity:1;stroke:#999999;stroke-width:0.97212446;stroke-opacity:1"
+           transform="scale(-1,1)"
+           ry="2"
+           rx="2" />
         <text
            id="text3227"
            y="212.47295"
            x="368.68018"
-           style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana;-inkscape-font-specification:Verdana"
+           style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana"
            xml:space="preserve"
            sodipodi:linespacing="125%"><tspan
-             style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana;-inkscape-font-specification:Verdana"
+             style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana"
              y="212.47295"
              x="368.68018"
              id="tspan3229"
              sodipodi:role="line">Delete</tspan></text>
       </g>
       <path
-         style="fill:none;stroke:#666666;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:none;stroke:#888a85;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 0.5,223.91189 959.00041,0"
          id="path3231" />
       <text
          sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana"
+         style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
          x="829.95111"
          y="173.34103"
          id="text3281"><tspan
@@ -1584,11 +1605,11 @@
            id="tspan3283"
            x="829.95111"
            y="173.34103"
-           style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana">Username</tspan></text>
+           style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana">Username</tspan></text>
       <text
          sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana;-inkscape-font-specification:Verdana"
+         style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
          x="900.95404"
          y="173.34103"
          id="text3289"><tspan
@@ -1596,17 +1617,17 @@
            id="tspan3291"
            x="900.95404"
            y="173.34103"
-           style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana;-inkscape-font-specification:Verdana">Logout</tspan></text>
+           style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana">Logout</tspan></text>
       <text
          id="text6892"
          y="182.37872"
-         x="107.11029"
-         style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana;-inkscape-font-specification:Verdana"
+         x="128.6795"
+         style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
          xml:space="preserve"
          sodipodi:linespacing="125%"><tspan
-           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana;-inkscape-font-specification:Verdana"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
            y="182.37872"
-           x="107.11029"
+           x="128.6795"
            id="tspan6894"
            sodipodi:role="line">My Dashboard</tspan></text>
     </g>
@@ -1888,15 +1909,16 @@
          width="139.91913"
          height="23.745682"
          x="-147.3465"
-         y="195.72307" />
+         y="195.72307"
+         ry="2" />
       <text
          id="text3219"
          y="212.47295"
          x="18.905884"
-         style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;display:inline;font-family:Verdana;-inkscape-font-specification:Verdana"
+         style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#333333;display:inline;font-family:Verdana;-inkscape-font-specification:Verdana"
          xml:space="preserve"
          sodipodi:linespacing="125%"><tspan
-           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#333333;font-family:Verdana;-inkscape-font-specification:Verdana"
            y="212.47295"
            x="18.905884"
            id="tspan3221"
@@ -2243,7 +2265,8 @@
                width="91.971062"
                height="16.596066"
                x="500.577"
-               y="-67.960861" />
+               y="-67.960861"
+               ry="2" />
             <text
                sodipodi:linespacing="125%"
                id="text3247"
@@ -2285,7 +2308,8 @@
              width="64.550102"
              height="16.604034"
              x="829.29779"
-             y="227.19937" />
+             y="227.19937"
+             ry="2" />
           <text
              sodipodi:linespacing="125%"
              id="text3305"
@@ -2303,26 +2327,29 @@
     </g>
     <g
        style="display:inline"
-       transform="translate(1027.8335,-152.06964)"
+       transform="translate(1027.192,-152.23701)"
        id="g6703">
       <rect
          y="195.72307"
-         x="673.2868"
-         height="23.745682"
-         width="63.419128"
+         x="673.67804"
+         height="24.027876"
+         width="63.02787"
          id="rect6705"
          style="fill:#e6e6e6;stroke:#cccccc;stroke-width:0.97212446;stroke-opacity:1"
-         transform="scale(-1,1)" />
+         transform="scale(-1,1)"
+         ry="2"
+         rx="2" />
       <text
          sodipodi:linespacing="125%"
          id="text6707"
-         y="211.77339"
-         x="-725.73254"
-         style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;font-family:Verdana;-inkscape-font-specification:Verdana"
-         xml:space="preserve"><tspan
-           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;font-family:Verdana;-inkscape-font-specification:Verdana"
-           y="211.77339"
-           x="-725.73254"
+         y="210.43523"
+         x="-730.0321"
+         style="font-size:11.4899807px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;font-family:Verdana;-inkscape-font-specification:Verdana"
+         xml:space="preserve"
+         transform="scale(0.99411044,1.0059245)"><tspan
+           style="font-size:13.07701778px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;font-family:Verdana;-inkscape-font-specification:Verdana"
+           y="210.43523"
+           x="-730.0321"
            id="tspan6709"
            sodipodi:role="line">Assign</tspan></text>
     </g>
@@ -2888,7 +2915,8 @@
          width="139.91913"
          height="23.745682"
          x="-147.3465"
-         y="43.360893" />
+         y="43.360893"
+         ry="2" />
       <text
          id="text3219-4"
          y="60.110771"
@@ -2901,16 +2929,6 @@
            x="18.905876"
            id="tspan3221-8"
            sodipodi:role="line">Hide Visual Editor</tspan></text>
-      <path
-         id="path6878-0"
-         d="M 146.97224,44.374831 8.4413059,44.390456 8.5661932,66.513336"
-         style="fill:none;stroke:#2a37c3;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-         sodipodi:nodetypes="ccc" />
-      <path
-         style="fill:none;stroke:#2a37c3;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-         d="m 7.9416264,66.406081 138.4996836,-0.03125 0,-22.12288"
-         id="path6880-4"
-         sodipodi:nodetypes="ccc" />
     </g>
     <text
        sodipodi:linespacing="125%"
@@ -3233,11 +3251,11 @@
            ry="0.051937442"
            rx="85.726265"
            y="439"
-           x="1"
+           x="1.0000058"
            height="32.999996"
            width="958"
            id="rect10997"
-           style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+           style="color:#000000;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
         <g
            style="display:inline"
            id="g4139-9"
@@ -3250,7 +3268,9 @@
              width="97.027878"
              id="rect5199-3"
              style="fill:#283bff;fill-opacity:1;stroke:#2c3ef0;stroke-width:0.97212464;stroke-opacity:1"
-             transform="scale(-1,1)" />
+             transform="scale(-1,1)"
+             ry="2"
+             rx="2" />
           <text
              sodipodi:linespacing="125%"
              xml:space="preserve"
@@ -3275,12 +3295,14 @@
              height="24.027876"
              width="105.02788"
              id="rect4151-4"
-             style="fill:#b3b3b3;fill-opacity:1;stroke:#898989;stroke-width:0.9721244;stroke-opacity:1"
-             transform="scale(-1,1)" />
+             style="fill:#cccccc;fill-opacity:1;stroke:#898989;stroke-width:0.9721244;stroke-opacity:1"
+             transform="scale(-1,1)"
+             ry="2"
+             rx="2" />
           <text
              sodipodi:linespacing="125%"
              xml:space="preserve"
-             style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Verdana;-inkscape-font-specification:Verdana"
+             style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;font-family:Verdana;-inkscape-font-specification:Verdana"
              x="597.60016"
              y="354.97339"
              id="text4153-8"><tspan
@@ -3288,7 +3310,7 @@
                id="tspan4155-3"
                x="597.60016"
                y="354.97339"
-               style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Verdana;-inkscape-font-specification:Verdana">Cancel</tspan></text>
+               style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;font-family:Verdana;-inkscape-font-specification:Verdana">Cancel</tspan></text>
         </g>
         <path
            style="fill:none;stroke:#babdb6;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
@@ -3389,9 +3411,9 @@
            id="text11536"
            y="454.11719"
            x="19"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
            xml:space="preserve"><tspan
-             style="font-size:12px;fill:#555753"
+             style="font-size:12px;fill:#666666"
              y="454.11719"
              x="19"
              id="tspan11538"
@@ -3401,9 +3423,9 @@
            id="text11540"
            y="503.81836"
            x="18.326172"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
            xml:space="preserve"><tspan
-             style="font-size:12px;fill:#555753"
+             style="font-size:12px;fill:#666666"
              y="503.81836"
              x="18.326172"
              id="tspan11542"
@@ -3527,6 +3549,18 @@
            d="m 0.5003259,434.5 958.4919141,0"
            style="fill:none;stroke:#babdb6;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3187-8"
+         y="59.961098"
+         x="16.010193"
+         style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;display:inline;font-family:Verdana;-inkscape-font-specification:Verdana"
+         xml:space="preserve"><tspan
+           style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;font-family:Verdana;-inkscape-font-specification:Verdana"
+           y="59.961098"
+           x="16.010193"
+           id="tspan3189-8"
+           sodipodi:role="line">Editing Content-Block</tspan></text>
     </g>
   </g>
   <g
@@ -3569,7 +3603,8 @@
            height="16.604034"
            width="76.354034"
            id="rect3267"
-           style="fill:#e6e6e6;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-opacity:1" />
+           style="fill:#e6e6e6;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-opacity:1"
+           ry="2" />
         <text
            xml:space="preserve"
            style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana"
@@ -3775,7 +3810,7 @@
        ry="0.051937442" />
     <g
        id="g7108"
-       transform="translate(0,-133.23692)">
+       transform="translate(0,-153.23692)">
       <rect
          style="fill:#f9f9f9;fill-opacity:1;stroke:#808080;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter4112)"
          id="rect4102"
@@ -3784,31 +3819,33 @@
          x="71.722168"
          y="188.40636" />
       <rect
-         y="180.40636"
+         y="180.73692"
          x="71.722168"
-         height="818.7868"
-         width="748"
+         height="818.45624"
+         width="747.77783"
          id="rect5183"
-         style="fill:#eeeeec;fill-opacity:1;stroke:#808080;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+         style="fill:#cccccc;fill-opacity:1;stroke:#808080;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:none"
          id="rect5185"
-         width="724"
-         height="732.6203"
-         x="85.722168"
-         y="243.8327" />
+         width="745"
+         height="733.21606"
+         x="73"
+         y="243.23692" />
       <g
          id="g4139"
          transform="translate(-115.18551,-133.95586)"
          onclick="InkWeb.hide(&quot;layer4&quot;)">
         <rect
-           y="335.22308"
+           y="338.94089"
            x="-792.83984"
-           height="27.745682"
+           height="24.027876"
            width="97.919128"
            id="rect5199"
            style="fill:#283bff;fill-opacity:1;stroke:#2c3ef0;stroke-width:0.97212464;stroke-opacity:1"
-           transform="scale(-1,1)" />
+           transform="scale(-1,1)"
+           ry="2"
+           rx="2" />
         <text
            sodipodi:linespacing="125%"
            xml:space="preserve"
@@ -3935,22 +3972,15 @@
          x="116.72205"
          y="722.40533" />
       <rect
-         y="181.40633"
-         x="144.47217"
-         height="10.786804"
-         width="142.75"
-         id="rect5327"
-         style="fill:#f9f9f9;fill-opacity:1;stroke:none" />
-      <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#cccccc;stroke-width:2.00200009;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
          id="rect5329"
-         width="11.313707"
+         width="10.998"
          height="727.6438"
-         x="797.01599"
-         y="244.98077" />
+         x="806.00098"
+         y="244.23792" />
       <rect
-         y="245.68787"
-         x="797.36963"
+         y="245.23692"
+         x="806"
          height="159.80614"
          width="10.606601"
          id="rect5331"
@@ -3962,17 +3992,19 @@
          transform="translate(134.6297,-133.95586)"
          onclick="InkWeb.hide(&quot;layer4&quot;)">
         <rect
-           y="335.22308"
+           y="338.94089"
            x="-671.93225"
-           height="27.745682"
+           height="24.027876"
            width="105.91913"
            id="rect4151"
-           style="fill:#b3b3b3;fill-opacity:1;stroke:#898989;stroke-width:0.97212446;stroke-opacity:1"
-           transform="scale(-1,1)" />
+           style="fill:#cccccc;fill-opacity:1;stroke:#898989;stroke-width:0.9721244;stroke-opacity:1"
+           transform="scale(-1,1)"
+           ry="2"
+           rx="2" />
         <text
            sodipodi:linespacing="125%"
            xml:space="preserve"
-           style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Verdana;-inkscape-font-specification:Verdana"
+           style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana"
            x="597.60016"
            y="354.97339"
            id="text4153"><tspan
@@ -3980,43 +4012,20 @@
              id="tspan4155"
              x="597.60016"
              y="354.97339"
-             style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Verdana;-inkscape-font-specification:Verdana">Cancel</tspan></text>
+             style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana">Cancel</tspan></text>
       </g>
       <text
          sodipodi:linespacing="125%"
          id="text5321"
          y="216.47339"
          x="90.934738"
-         style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana;-inkscape-font-specification:Verdana"
+         style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana"
          xml:space="preserve"><tspan
-           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana;-inkscape-font-specification:Verdana"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana"
            y="216.47339"
            x="90.934738"
            id="tspan5323"
-           sodipodi:role="line">Edit page properties</tspan></text>
-      <path
-         style="fill:none;stroke:#e6e6e6;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 1648,14 c -28,-14 -24,-2 -65,-1"
-         id="path5730"
-         transform="translate(-996.5,152.36218)"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="fill:none;stroke:#e6e6e6;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 653.16635,155.73692 2.50534,15.05733 c 3.76018,5.49875 -5.5305,2.09739 -16.32688,-2.33079"
-         id="path5732"
-         sodipodi:nodetypes="ccc" />
-      <text
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
-         x="371.5"
-         y="169.36218"
-         id="text5734"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan5736"
-           x="371.5"
-           y="169.36218"
-           style="font-size:12px;fill:#333333">Save/cancel buttons are at the top</tspan></text>
+           sodipodi:role="line">Editing page properties</tspan></text>
     </g>
   </g>
   <g
@@ -4034,7 +4043,7 @@
        rx="85.72625"
        ry="0.051937446" />
     <g
-       transform="translate(935.5,86.329872)"
+       transform="translate(935.5,46.329872)"
        id="g5972">
       <g
          id="g5012"
@@ -4052,7 +4061,7 @@
            height="266.7204"
            width="653.93359"
            id="rect5016"
-           style="fill:#f9f9f9;fill-opacity:1;stroke:#808080;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+           style="fill:#cccccc;fill-opacity:1;stroke:#808080;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
         <rect
            style="fill:#ffffff;fill-opacity:1;stroke:none"
            id="rect5018"
@@ -4062,16 +4071,18 @@
            y="373.8327" />
         <g
            id="g5020"
-           transform="translate(-175.18551,-3.955857)"
+           transform="translate(-167.18551,-3.955857)"
            onclick="InkWeb.hide(&quot;layer2&quot;)">
           <rect
-             y="335.22308"
+             y="338.94089"
              x="-792.83984"
-             height="27.745682"
+             height="24.027876"
              width="97.919128"
              id="rect5022"
              style="fill:#283bff;fill-opacity:1;stroke:#2c3ef0;stroke-width:0.97212464;stroke-opacity:1"
-             transform="scale(-1,1)" />
+             transform="scale(-1,1)"
+             ry="2"
+             rx="2" />
           <text
              sodipodi:linespacing="125%"
              xml:space="preserve"
@@ -4090,17 +4101,19 @@
            transform="translate(74.6297,-3.955857)"
            onclick="InkWeb.hide(&quot;layer2&quot;)">
           <rect
-             y="335.22308"
+             y="338.94089"
              x="-671.93225"
-             height="27.745682"
+             height="24.027876"
              width="105.91913"
              id="rect5070"
-             style="fill:#b3b3b3;fill-opacity:1;stroke:#898989;stroke-width:0.97212446;stroke-opacity:1"
-             transform="scale(-1,1)" />
+             style="fill:#cccccc;fill-opacity:1;stroke:#999999;stroke-width:0.9721244;stroke-opacity:1"
+             transform="scale(-1,1)"
+             ry="2"
+             rx="2" />
           <text
              sodipodi:linespacing="125%"
              xml:space="preserve"
-             style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Verdana;-inkscape-font-specification:Verdana"
+             style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana"
              x="597.60016"
              y="354.97339"
              id="text5072"><tspan
@@ -4108,7 +4121,7 @@
                id="tspan5074"
                x="597.60016"
                y="354.97339"
-               style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Verdana;-inkscape-font-specification:Verdana">Cancel</tspan></text>
+               style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana">Cancel</tspan></text>
         </g>
         <text
            sodipodi:linespacing="125%"
