@@ -26,7 +26,7 @@
     <linearGradient
        id="linearGradient3506">
       <stop
-         style="stop-color:#e0e0e0;stop-opacity:1;"
+         style="stop-color:#e2e2e2;stop-opacity:1;"
          offset="0"
          id="stop3508" />
       <stop
@@ -917,15 +917,6 @@
     </filter>
     <filter
        inkscape:collect="always"
-       id="filter4112"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="7.833934"
-         id="feGaussianBlur4114" />
-    </filter>
-    <filter
-       inkscape:collect="always"
        id="filter4130"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
@@ -1241,7 +1232,7 @@
        x1="21.213203"
        y1="189.56485"
        x2="21.213203"
-       y2="175.59694"
+       y2="176.59694"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(21.772727,0,0,1,-20.772727,0)" />
     <inkscape:perspective
@@ -1265,6 +1256,57 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3510-79"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3535"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3593"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3615"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       inkscape:collect="always"
+       id="filter4447"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.4375"
+         id="feGaussianBlur4449" />
+    </filter>
+    <inkscape:perspective
+       id="perspective4459"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4490"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1274,10 +1316,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="42.211115"
-     inkscape:cy="774.14093"
+     inkscape:cx="404.75412"
+     inkscape:cy="451.42063"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1040"
      inkscape:window-height="852"
@@ -1956,49 +1998,54 @@
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana;-inkscape-font-specification:Verdana"
        x="49.988281"
-       y="375.64447"
+       y="369.64447"
        id="text5194-4-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="49.988281"
-         y="375.64447"
+         y="369.64447"
          id="tspan5198-8-7"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">1. Click the Assign button to see how a page assigned to you would look like.</tspan><tspan
          sodipodi:role="line"
          x="49.988281"
-         y="390.64447"
+         y="384.64447"
          id="tspan5200-0-6"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">2. Show/Hide the visual edtor </tspan><tspan
          sodipodi:role="line"
          x="49.988281"
-         y="405.64447"
+         y="399.64447"
          id="tspan5202-6-2"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">3. Add content by clicking &quot;+&quot; (when editor shown)  </tspan><tspan
          sodipodi:role="line"
          x="49.988281"
-         y="420.64447"
+         y="414.64447"
          id="tspan5204-0-9"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">4. publish the page </tspan><tspan
          sodipodi:role="line"
          x="49.988281"
-         y="435.64447"
+         y="429.64447"
          id="tspan5206-5-8"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">5. Edit page properties  </tspan><tspan
          sodipodi:role="line"
          x="49.988281"
-         y="450.64447"
-         id="tspan5218-9-5"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">6. Hover over a block to Show the block menu and click the reorder icon</tspan><tspan
+         y="444.64447"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         id="tspan5347">6. Hover over a block to Show the block menu and click the reorder icon</tspan><tspan
          sodipodi:role="line"
          x="49.988281"
-         y="465.64447"
+         y="459.64447"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
-         id="tspan5345" /><tspan
+         id="tspan4343">7. Click the pencil icon in a block menu to edit that block of content</tspan><tspan
          sodipodi:role="line"
          x="49.988281"
-         y="480.64447"
+         y="474.64447"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
-         id="tspan5347">The rest of this is dummy text.</tspan></text>
+         id="tspan4355"></tspan><tspan
+         sodipodi:role="line"
+         x="49.988281"
+         y="489.64447"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         id="tspan4359">The rest of this is dummy text.</tspan></text>
     <g
        id="blockmenu01-7"
        transform="matrix(0.90805248,0,0,0.9080525,-540.22506,-568.76935)"
@@ -2395,47 +2442,52 @@
          xml:space="preserve"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana;-inkscape-font-specification:Verdana"
          x="49.988499"
-         y="375.39429"
+         y="369.39429"
          id="text5194-4-3-9"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            x="49.988499"
-           y="375.39429"
+           y="369.39429"
            id="tspan5198-8-7-2"
            style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">1. Click the Assign button to see how a page assigned to you would look like.</tspan><tspan
            sodipodi:role="line"
            x="49.988499"
-           y="390.39429"
+           y="384.39429"
            id="tspan5200-0-6-5"
            style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">2. Show/Hide the visual edtor </tspan><tspan
            sodipodi:role="line"
            x="49.988499"
-           y="405.39429"
+           y="399.39429"
            id="tspan5202-6-2-5"
            style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">3. Add content by clicking &quot;+&quot; (when editor shown)  </tspan><tspan
            sodipodi:role="line"
            x="49.988499"
-           y="420.39429"
+           y="414.39429"
            id="tspan5204-0-9-9"
            style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">4. publish the page </tspan><tspan
            sodipodi:role="line"
            x="49.988499"
-           y="435.39429"
+           y="429.39429"
            id="tspan5206-5-8-1"
            style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">5. Edit page properties  </tspan><tspan
            sodipodi:role="line"
            x="49.988499"
-           y="450.39429"
+           y="444.39429"
            id="tspan5218-9-5-1"
            style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">6. Hover over a block to Show the block menu and click the reorder icon</tspan><tspan
            sodipodi:role="line"
            x="49.988499"
-           y="465.39429"
+           y="459.39429"
            style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
-           id="tspan5345-4" /><tspan
+           id="tspan5345-4">7. Click the pencil icon in a block menu to edit that block of content</tspan><tspan
            sodipodi:role="line"
            x="49.988499"
-           y="480.39429"
+           y="474.39429"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+           id="tspan4324" /><tspan
+           sodipodi:role="line"
+           x="49.988499"
+           y="489.39429"
            style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
            id="tspan5347-4">The rest of this is dummy text.</tspan></text>
       <use
@@ -3118,49 +3170,54 @@
            xml:space="preserve"
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana;-inkscape-font-specification:Verdana"
            x="49.988499"
-           y="223.32416"
+           y="217.32416"
            id="text5194-4-3-9-2"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              x="49.988499"
-             y="223.32416"
-             id="tspan5198-8-7-2-7"
-             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">1. Click the Assign button to see how a page assigned to you would look like.</tspan><tspan
-             sodipodi:role="line"
-             x="49.988499"
-             y="238.32416"
-             id="tspan5200-0-6-5-0"
-             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">2. Show/Hide the visual edtor </tspan><tspan
-             sodipodi:role="line"
-             x="49.988499"
-             y="253.32416"
-             id="tspan5202-6-2-5-3"
-             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">3. Add content by clicking &quot;+&quot; (when editor shown)  </tspan><tspan
-             sodipodi:role="line"
-             x="49.988499"
-             y="268.32416"
-             id="tspan5204-0-9-9-9"
-             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">4. publish the page </tspan><tspan
-             sodipodi:role="line"
-             x="49.988499"
-             y="283.32416"
-             id="tspan5206-5-8-1-9"
-             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">5. Edit page properties  </tspan><tspan
-             sodipodi:role="line"
-             x="49.988499"
-             y="298.32416"
-             id="tspan5218-9-5-1-9"
-             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">6. Hover over a block to Show the block menu and click the reorder icon</tspan><tspan
-             sodipodi:role="line"
-             x="49.988499"
-             y="313.32416"
+             y="217.32416"
              style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
-             id="tspan5345-4-1" /><tspan
+             id="tspan5347-4-7">1. Click the Assign button to see how a page assigned to you would look like.</tspan><tspan
              sodipodi:role="line"
              x="49.988499"
-             y="328.32416"
+             y="232.32416"
              style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
-             id="tspan5347-4-7">The rest of this is dummy text.</tspan></text>
+             id="tspan4541">2. Show/Hide the visual edtor </tspan><tspan
+             sodipodi:role="line"
+             x="49.988499"
+             y="247.32416"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+             id="tspan4543">3. Add content by clicking &quot;+&quot; (when editor shown)  </tspan><tspan
+             sodipodi:role="line"
+             x="49.988499"
+             y="262.32416"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+             id="tspan4545">4. publish the page </tspan><tspan
+             sodipodi:role="line"
+             x="49.988499"
+             y="277.32416"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+             id="tspan4547">5. Edit page properties  </tspan><tspan
+             sodipodi:role="line"
+             x="49.988499"
+             y="292.32416"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+             id="tspan4549">6. Hover over a block to Show the block menu and click the reorder icon</tspan><tspan
+             sodipodi:role="line"
+             x="49.988499"
+             y="307.32416"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+             id="tspan4304">7. Click the pencil icon in a block menu to edit that block of content</tspan><tspan
+             sodipodi:role="line"
+             x="49.988499"
+             y="322.32416"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+             id="tspan4308" /><tspan
+             sodipodi:role="line"
+             x="49.988499"
+             y="337.32416"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+             id="tspan4555">The rest of this is dummy text.</tspan></text>
         <rect
            y="343.49997"
            x="43.499828"
@@ -3316,6 +3373,19 @@
            style="fill:none;stroke:#babdb6;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
            d="m 0.5003259,440.5 958.4919141,0"
            id="path11957-8" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3187-8"
+           y="-451.03891"
+           x="16.010199"
+           style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;display:inline;font-family:Verdana;-inkscape-font-specification:Verdana"
+           xml:space="preserve"
+           transform="scale(1,-1)"><tspan
+             style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;font-family:Verdana;-inkscape-font-specification:Verdana"
+             y="-451.03891"
+             x="16.010199"
+             id="tspan3189-8"
+             sodipodi:role="line">Editing Content-Block</tspan></text>
       </g>
       <g
          id="g11959"
@@ -3340,49 +3410,54 @@
            xml:space="preserve"
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana;-inkscape-font-specification:Verdana"
            x="26.8125"
-           y="600.33203"
+           y="592.33203"
            id="use11215"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              x="26.8125"
-             y="600.33203"
-             id="tspan11574"
-             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">1. Click the Assign button to see how a page assigned to you would look like.</tspan><tspan
-             sodipodi:role="line"
-             x="26.8125"
-             y="615.33203"
-             id="tspan11576"
-             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">2. Show/Hide the visual edtor </tspan><tspan
-             sodipodi:role="line"
-             x="26.8125"
-             y="630.33203"
-             id="tspan11578"
-             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">3. Add content by clicking &quot;+&quot; (when editor shown)  </tspan><tspan
-             sodipodi:role="line"
-             x="26.8125"
-             y="645.33203"
-             id="tspan11580"
-             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">4. publish the page </tspan><tspan
-             sodipodi:role="line"
-             x="26.8125"
-             y="660.33203"
-             id="tspan11582"
-             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">5. Edit page properties  </tspan><tspan
-             sodipodi:role="line"
-             x="26.8125"
-             y="675.33203"
-             id="tspan11584"
-             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">6. Hover over a block to Show the block menu and click the reorder icon</tspan><tspan
-             sodipodi:role="line"
-             x="26.8125"
-             y="690.33203"
+             y="592.33203"
              style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana"
-             id="tspan11586" /><tspan
+             id="tspan11588">1. Click the Assign button to see how a page assigned to you would look like.</tspan><tspan
              sodipodi:role="line"
              x="26.8125"
-             y="705.33203"
+             y="607.33203"
              style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana"
-             id="tspan11588">The rest of this is dummy text.</tspan></text>
+             id="tspan4614">2. Show/Hide the visual edtor </tspan><tspan
+             sodipodi:role="line"
+             x="26.8125"
+             y="622.33203"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana"
+             id="tspan4616">3. Add content by clicking &quot;+&quot; (when editor shown)  </tspan><tspan
+             sodipodi:role="line"
+             x="26.8125"
+             y="637.33203"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana"
+             id="tspan4618">4. publish the page </tspan><tspan
+             sodipodi:role="line"
+             x="26.8125"
+             y="652.33203"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana"
+             id="tspan4620">5. Edit page properties  </tspan><tspan
+             sodipodi:role="line"
+             x="26.8125"
+             y="667.33203"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana"
+             id="tspan4622">6. Hover over a block to Show the block menu and click the reorder icon</tspan><tspan
+             sodipodi:role="line"
+             x="26.8125"
+             y="682.33203"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana"
+             id="tspan4624">7. Click the pencil icon in a block menu to edit that block of content</tspan><tspan
+             sodipodi:role="line"
+             x="26.8125"
+             y="697.33203"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana"
+             id="tspan4310" /><tspan
+             sodipodi:role="line"
+             x="26.8125"
+             y="712.33203"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana"
+             id="tspan4626">The rest of this is dummy text.</tspan></text>
         <rect
            style="color:#000000;fill:#f7f7f7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            id="rect11590"
@@ -3549,18 +3624,6 @@
            d="m 0.5003259,434.5 958.4919141,0"
            style="fill:none;stroke:#babdb6;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       </g>
-      <text
-         sodipodi:linespacing="125%"
-         id="text3187-8"
-         y="59.961098"
-         x="16.010193"
-         style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;display:inline;font-family:Verdana;-inkscape-font-specification:Verdana"
-         xml:space="preserve"><tspan
-           style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;font-family:Verdana;-inkscape-font-specification:Verdana"
-           y="59.961098"
-           x="16.010193"
-           id="tspan3189-8"
-           sodipodi:role="line">Editing Content-Block</tspan></text>
     </g>
   </g>
   <g
@@ -3797,7 +3860,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="pageproperties"
+     inkscape:label="pageproperties (layer4)"
      style="display:none">
     <rect
        style="opacity:0.00100002;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#808000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -3810,57 +3873,24 @@
        ry="0.051937442" />
     <g
        id="g7108"
-       transform="translate(0,-153.23692)">
+       transform="translate(0,-141.23692)">
       <rect
-         style="fill:#f9f9f9;fill-opacity:1;stroke:#808080;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter4112)"
-         id="rect4102"
-         width="748"
-         height="818.7868"
-         x="71.722168"
-         y="188.40636" />
-      <rect
-         y="180.73692"
-         x="71.722168"
-         height="818.45624"
-         width="747.77783"
-         id="rect5183"
-         style="fill:#cccccc;fill-opacity:1;stroke:#808080;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
-         id="rect5185"
-         width="745"
-         height="733.21606"
+         y="227.73692"
          x="73"
-         y="243.23692" />
-      <g
-         id="g4139"
-         transform="translate(-115.18551,-133.95586)"
-         onclick="InkWeb.hide(&quot;layer4&quot;)">
-        <rect
-           y="338.94089"
-           x="-792.83984"
-           height="24.027876"
-           width="97.919128"
-           id="rect5199"
-           style="fill:#283bff;fill-opacity:1;stroke:#2c3ef0;stroke-width:0.97212464;stroke-opacity:1"
-           transform="scale(-1,1)"
-           ry="2"
-           rx="2" />
-        <text
-           sodipodi:linespacing="125%"
-           xml:space="preserve"
-           style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Verdana;-inkscape-font-specification:Verdana"
-           x="727.81439"
-           y="354.97339"
-           id="text5201"><tspan
-             sodipodi:role="line"
-             id="tspan5203"
-             x="727.81439"
-             y="354.97339"
-             style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Verdana;-inkscape-font-specification:Verdana">Save</tspan></text>
-      </g>
+         height="542"
+         width="745.5"
+         id="rect4441"
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.95971912;stroke-opacity:1;filter:url(#filter4447)"
+         transform="matrix(1,0,0,1.0857044,0,-62.743925)" />
       <rect
-         y="275.40631"
+         style="fill:#ffffff;fill-opacity:1;stroke:#888a85;stroke-width:0.99999988;stroke-opacity:1"
+         id="rect5185"
+         width="746"
+         height="542"
+         x="72.5"
+         y="223.73692" />
+      <rect
+         y="261.40631"
          x="216.72205"
          height="28"
          width="508"
@@ -3872,9 +3902,9 @@
          width="508"
          height="28"
          x="216.72205"
-         y="315.40631" />
+         y="301.40631" />
       <rect
-         y="355.40631"
+         y="341.40631"
          x="216.72205"
          height="28"
          width="508"
@@ -3886,9 +3916,9 @@
          width="508"
          height="77"
          x="216.72205"
-         y="455.40631" />
+         y="441.40631" />
       <rect
-         y="399.40631"
+         y="385.40631"
          x="216.72205"
          height="28"
          width="508"
@@ -3900,9 +3930,9 @@
          width="92"
          height="20.192308"
          x="116.72205"
-         y="274.4053" />
+         y="260.4053" />
       <rect
-         y="314.4053"
+         y="300.4053"
          x="116.72205"
          height="20.192308"
          width="64"
@@ -3914,23 +3944,23 @@
          width="72"
          height="20.192308"
          x="116.72205"
-         y="354.40533" />
+         y="340.40533" />
       <rect
          style="fill:#333333;fill-opacity:1;stroke:none"
          id="rect5257"
          width="88"
          height="20.192308"
          x="116.72205"
-         y="398.40533" />
+         y="384.40533" />
       <rect
-         y="454.40533"
+         y="440.40533"
          x="116.72205"
          height="20.192308"
          width="88"
          id="rect5259"
          style="fill:#333333;fill-opacity:1;stroke:none" />
       <rect
-         y="615.40631"
+         y="601.40631"
          x="216.72205"
          height="77"
          width="508"
@@ -3942,9 +3972,9 @@
          width="508"
          height="28"
          x="216.72205"
-         y="559.40631" />
+         y="545.40631" />
       <rect
-         y="558.40533"
+         y="544.40533"
          x="116.72205"
          height="20.192308"
          width="88"
@@ -3956,9 +3986,9 @@
          width="88"
          height="20.192308"
          x="116.72205"
-         y="614.40533" />
+         y="600.40533" />
       <rect
-         y="723.40631"
+         y="709.40631"
          x="216.72205"
          height="28"
          width="508"
@@ -3970,62 +4000,91 @@
          width="88"
          height="20.192308"
          x="116.72205"
-         y="722.40533" />
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#cccccc;stroke-width:2.00200009;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-         id="rect5329"
-         width="10.998"
-         height="727.6438"
-         x="806.00098"
-         y="244.23792" />
-      <rect
-         y="245.23692"
-         x="806"
-         height="159.80614"
-         width="10.606601"
-         id="rect5331"
-         style="fill:#888a85;fill-opacity:1;stroke:none"
-         rx="6"
-         ry="6" />
+         y="708.40533" />
       <g
-         id="g4149"
-         transform="translate(134.6297,-133.95586)"
-         onclick="InkWeb.hide(&quot;layer4&quot;)">
+         style="display:inline"
+         transform="matrix(1,0,0,-1,-5.9e-6,664.23692)"
+         id="g12034-3">
         <rect
-           y="338.94089"
-           x="-671.93225"
-           height="24.027876"
-           width="105.91913"
-           id="rect4151"
-           style="fill:#cccccc;fill-opacity:1;stroke:#898989;stroke-width:0.9721244;stroke-opacity:1"
-           transform="scale(-1,1)"
-           ry="2"
-           rx="2" />
-        <text
-           sodipodi:linespacing="125%"
-           xml:space="preserve"
-           style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana"
-           x="597.60016"
-           y="354.97339"
-           id="text4153"><tspan
-             sodipodi:role="line"
-             id="tspan4155"
+           ry="0.053511355"
+           rx="66.710777"
+           y="439.49997"
+           x="72.500008"
+           height="34.000031"
+           width="745.49994"
+           id="rect10997-8"
+           style="color:#000000;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#888a85;stroke-width:0.99999988;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <g
+           style="display:inline"
+           id="g4139-9-0"
+           transform="matrix(1,0,0,-1,-101.43466,807.45483)"
+           onclick="InkWeb.hide(&quot;layer4&quot;)">
+          <rect
+             y="338.94089"
+             x="-791.94861"
+             height="24.027876"
+             width="97.027878"
+             id="rect5199-3-2"
+             style="fill:#283bff;fill-opacity:1;stroke:#2c3ef0;stroke-width:0.97212464;stroke-opacity:1"
+             transform="scale(-1,1)"
+             ry="2"
+             rx="2" />
+          <text
+             sodipodi:linespacing="125%"
+             xml:space="preserve"
+             style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Verdana;-inkscape-font-specification:Verdana"
+             x="727.81439"
+             y="354.97339"
+             id="text5201-8-4"><tspan
+               sodipodi:role="line"
+               id="tspan5203-0-8"
+               x="727.81439"
+               y="354.97339"
+               style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Verdana;-inkscape-font-specification:Verdana">Save</tspan></text>
+        </g>
+        <g
+           style="display:inline"
+           id="g4149-2-3"
+           transform="matrix(1,0,0,-1,139.47293,807.45483)"
+           onclick="InkWeb.hide(&quot;layer4&quot;)">
+          <rect
+             y="338.94089"
+             x="-671.04102"
+             height="24.027876"
+             width="105.02788"
+             id="rect4151-4-9"
+             style="fill:#cccccc;fill-opacity:1;stroke:#898989;stroke-width:0.9721244;stroke-opacity:1"
+             transform="scale(-1,1)"
+             ry="2"
+             rx="2" />
+          <text
+             sodipodi:linespacing="125%"
+             xml:space="preserve"
+             style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;font-family:Verdana;-inkscape-font-specification:Verdana"
              x="597.60016"
              y="354.97339"
-             style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana">Cancel</tspan></text>
+             id="text4153-8-0"><tspan
+               sodipodi:role="line"
+               id="tspan4155-3-5"
+               x="597.60016"
+               y="354.97339"
+               style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;font-family:Verdana;-inkscape-font-specification:Verdana">Cancel</tspan></text>
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3187-8-2"
+           y="-451.03891"
+           x="96.010201"
+           style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;display:inline;font-family:Verdana;-inkscape-font-specification:Verdana"
+           xml:space="preserve"
+           transform="scale(1,-1)"><tspan
+             style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;font-family:Verdana;-inkscape-font-specification:Verdana"
+             y="-451.03891"
+             x="96.010201"
+             id="tspan3189-8-7"
+             sodipodi:role="line"
+             dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">Editing page properties</tspan></text>
       </g>
-      <text
-         sodipodi:linespacing="125%"
-         id="text5321"
-         y="216.47339"
-         x="90.934738"
-         style="font-size:11.42230988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana"
-         xml:space="preserve"><tspan
-           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana"
-           y="216.47339"
-           x="90.934738"
-           id="tspan5323"
-           sodipodi:role="line">Editing page properties</tspan></text>
     </g>
   </g>
   <g
