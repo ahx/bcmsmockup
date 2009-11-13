@@ -14,7 +14,7 @@
    height="900"
    id="svg2"
    version="1.1"
-   inkscape:version="0.47pre4 r22446"
+   inkscape:version="0.47pre3 r22311"
    sodipodi:docname="incontent_editor_top.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    style="display:inline">
@@ -1225,16 +1225,6 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3506"
-       id="linearGradient3512"
-       x1="21.213203"
-       y1="189.56485"
-       x2="21.213203"
-       y2="176.59694"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(21.772727,0,0,1,-20.772727,0)" />
     <inkscape:perspective
        id="perspective4344"
        inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
@@ -1315,11 +1305,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="404.75412"
-     inkscape:cy="451.42063"
+     inkscape:zoom="45.254834"
+     inkscape:cx="466.51037"
+     inkscape:cy="831.4798"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g6112"
      showgrid="true"
      inkscape:window-width="1040"
      inkscape:window-height="852"
@@ -1518,9 +1508,9 @@
       <path
          id="path3215"
          d="m 959.55714,190.91189 -958.99896809,0"
-         style="stroke:#888a85;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="stroke:#a6a6a6;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <rect
-         style="color:#000000;fill:url(#linearGradient3512);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect3504"
          width="958"
          height="37"
@@ -1633,7 +1623,7 @@
              sodipodi:role="line">Delete</tspan></text>
       </g>
       <path
-         style="fill:none;stroke:#888a85;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:none;stroke:#a6a6a6;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 0.5,223.91189 959.00041,0"
          id="path3231" />
       <text
@@ -2040,7 +2030,7 @@
          x="49.988281"
          y="474.64447"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
-         id="tspan4355"></tspan><tspan
+         id="tspan4355" /><tspan
          sodipodi:role="line"
          x="49.988281"
          y="489.64447"
@@ -2155,7 +2145,7 @@
        transform="translate(148,-207.69201)">
       <path
          transform="matrix(0.2540107,0,0,0.2540107,-503.08704,414.11635)"
-         d="m 1001,119 a 34,34 0 1 1 -68,0 34,34 0 1 1 68,0 z"
+         d="m 1001,119 c 0,18.77768 -15.22232,34 -34,34 -18.77768,0 -34,-15.22232 -34,-34 0,-18.77768 15.22232,-34 34,-34 18.77768,0 34,15.22232 34,34 z"
          sodipodi:ry="34"
          sodipodi:rx="34"
          sodipodi:cy="119"
@@ -3468,12 +3458,12 @@
         <image
            sodipodi:absref="/Users/andreashaller/Documents/Studium/Interface Einfach/brws/mockup/editor.png"
            xlink:href="editor.png"
-           style="fill:#eeeeec"
-           width="596"
-           height="64"
-           id="image11528"
+           y="510"
            x="21"
-           y="510" />
+           id="image11528"
+           height="64"
+           width="596"
+           style="fill:#eeeeec" />
         <rect
            style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#babdb6;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            id="rect11534"
