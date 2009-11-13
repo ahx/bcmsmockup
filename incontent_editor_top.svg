@@ -1305,11 +1305,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254834"
+     inkscape:zoom="1"
      inkscape:cx="466.51037"
-     inkscape:cy="831.4798"
+     inkscape:cy="671.4798"
      inkscape:document-units="px"
-     inkscape:current-layer="g6112"
+     inkscape:current-layer="layer7"
      showgrid="true"
      inkscape:window-width="1040"
      inkscape:window-height="852"
@@ -2261,7 +2261,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="tape:assigned (layer7)"
-     style="display:none">
+     style="display:inline">
     <g
        transform="translate(-0.29977426,-152.06964)"
        style="display:inline"
@@ -2361,34 +2361,6 @@
                sodipodi:role="line">View task</tspan></text>
         </g>
       </g>
-    </g>
-    <g
-       style="display:inline"
-       transform="translate(1027.192,-152.23701)"
-       id="g6703">
-      <rect
-         y="195.72307"
-         x="673.67804"
-         height="24.027876"
-         width="63.02787"
-         id="rect6705"
-         style="fill:#e6e6e6;stroke:#cccccc;stroke-width:0.97212446;stroke-opacity:1"
-         transform="scale(-1,1)"
-         ry="2"
-         rx="2" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text6707"
-         y="210.43523"
-         x="-730.0321"
-         style="font-size:11.4899807px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;font-family:Verdana;-inkscape-font-specification:Verdana"
-         xml:space="preserve"
-         transform="scale(0.99411044,1.0059245)"><tspan
-           style="font-size:13.07701778px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;font-family:Verdana;-inkscape-font-specification:Verdana"
-           y="210.43523"
-           x="-730.0321"
-           id="tspan6709"
-           sodipodi:role="line">Assign</tspan></text>
     </g>
   </g>
   <g
@@ -3458,12 +3430,12 @@
         <image
            sodipodi:absref="/Users/andreashaller/Documents/Studium/Interface Einfach/brws/mockup/editor.png"
            xlink:href="editor.png"
-           y="510"
-           x="21"
-           id="image11528"
-           height="64"
+           style="fill:#eeeeec"
            width="596"
-           style="fill:#eeeeec" />
+           height="64"
+           id="image11528"
+           x="21"
+           y="510" />
         <rect
            style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#babdb6;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            id="rect11534"
